@@ -1,0 +1,32 @@
+nav.navbar
+{
+    background-color: darkcyan;
+}
+
+h1.titulo
+{
+    color: black;
+    padding-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#Divo
+{
+    margin-left: 50px;
+}
+
+#datos
+{
+    float:left;
+    margin-right: 300px;
+    margin-top: 20px;
+}
+
+#eTabla
+{
+    min-width: 600px;
+}
+
+#iz
+{
+    min-width: 600px;
+}
